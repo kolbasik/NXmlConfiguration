@@ -69,7 +69,7 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\XmlConfigurator\NXmlConfiguration.csproj">
+    <ProjectReference Include="..\NXmlConfiguration\NXmlConfiguration.csproj">
       <Project>{bccabe8e-137e-4d46-a005-bfbacac0ed90}</Project>
       <Name>NXmlConfiguration</Name>
     </ProjectReference>
